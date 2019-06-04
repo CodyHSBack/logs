@@ -1,2 +1,2 @@
 # logs
-The files I put here are log files. These are not importent.
+The files here are random logs. These are not important.
